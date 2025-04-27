@@ -3,7 +3,7 @@ package Logic;
 public class Fahrenheit {
 
     private double tempInFahr;
-
+    // comment
     public Fahrenheit(double tempInFahr) {
         this.tempInFahr = tempInFahr;
     }
